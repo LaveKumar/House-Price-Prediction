@@ -1,9 +1,5 @@
 
 
-# End to end Text-Summarizer-Project
-
-
-
 ## House Price Prediction Using Boston Housing Dataset
 This project leverages the Boston Housing Dataset to predict house prices using various regression techniques. It is designed to showcase the application of machine learning models to a real-world problem, emphasizing feature analysis, model evaluation, and deployment-readiness.
 
